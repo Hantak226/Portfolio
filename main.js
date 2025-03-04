@@ -3,7 +3,7 @@ var typed = new Typed(".text", {
     "Frontend Developer",
     "Python Developer",
     "Web Developer",
-    "UI & UX",
+    "UI & UX designer",
   ],
   typeSpeed: 10,
   backSpeed: 100,
